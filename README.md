@@ -2,21 +2,6 @@ Bloțiu Mihnea-Andrei - 323CA
 Proiect - Etapa 2 - Santa Claus is coming to ACS students
 15.01.2022
 
-Precizări:
-
-- Am ultima versiune de checker și de teste + ref de pe github, postată
-pe data de 10.01.2022 la ora 12:29 pe GitHub;
-- Am tesat pe două calculatoare, atât Windows cât și Linux (aceeași problemă);
-- Am vorbit cu Narcis Căroi, asistentul de laborator de la semigrupa mea,
-știe despre această problemă, i-am prezentat live situația; 
-- De asemenea a testat și el implementarea mea pe calculatorul său și primește
-tot punctaj maxim.
-
-! IMPORTANT !: Vă mulțumesc mult pentru înțelegere și aștept o soluție în acest
-sens. Știu că este vorba doar de 15p însă nu cred că ar fi corect să le pierd
-deoarece eu consider că am făcut tot ce imi stătea în putință și am anunțat problema
-cu o săptămână înainte (nu mai am alte idei). Mulțumesc pentru timpul acordat.
-
 As a starting point for this second stage of this project, I used the classes
 implemented in the first stage, that are detailed in the first README. In the
 next lines, I will give a short resume about what was implemented in the first
