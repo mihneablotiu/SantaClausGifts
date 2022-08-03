@@ -2,11 +2,6 @@ Bloțiu Mihnea-Andrei - 323CA
 Proiect - Etapa 2 - Santa Claus is coming to ACS students
 15.01.2022
 
-! IMPORTANT !: Am următoarea problemă cu VMChecker: Pe local primesc 60 de puncte
-pentru toate testele rezolvate corect însă pe VMChecker doar 45. Am menționat
-această problemă și cu o săptămână înainte de deadline pe forum însă nu am primit
-nicio soluție. 
-
 Precizări:
 
 - Am ultima versiune de checker și de teste + ref de pe github, postată
